@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanskar Goyal. I am pursuing my B.Tech in Information Technology from Bhopal,India.
+- 👋 Hi, I’m Sanskar Goyal. I am pursuing my B.Tech in Information Technology from Bhopal, India.
 - 👀 I’m interested in CyberSecurity and Software Development.
 - 🌱 I’m currently learning Cybersecurity and networking on my own and looking for mentorship regarding future career opportunities in these fields.
 - 📫 How to reach me ...
